@@ -14,7 +14,7 @@ A simple e-commerce website built using HTML and CSS. It serves as a front-end t
 
 ## Future Improvements
 - Add JavaScript to enable dynamic features, such as:
-  -- Add-to-cart functionality with real-time updates.
+  --- Add-to-cart functionality with real-time updates.
   -- Total price calculation reflecting cart changes.
   -- Search and filtering options for products.
 - Develop a back-end system for managing products, users, and orders.
