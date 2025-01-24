@@ -6,15 +6,11 @@ A simple e-commerce website built using HTML and CSS. It serves as a front-end t
 ## Features
 - An inviting landing page featuring a banner, highlighted products, and promotional sections.
 - Displays a grid of products with images, names, prices, and buttons to add them to the cart.
-- Customize the background color of the canvas.
-- Adjust the font size of the signature strokes.
-- Clear the canvas to start over.
-- Save your signature as a PNG file and download it.
-- Load a previously saved signature from the browser's local storage.
+
 
 ## Technologies Used
 - HTML
-- 
+- CSS
 
 ## Future Improvements
 - Add JavaScript to enable dynamic features, such as:
